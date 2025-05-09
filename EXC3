@@ -1,0 +1,12 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Olá Mundo")
+		escreva("como vai", "/n")
+	}
+}
+
+
+A diferença é que a mensagem "como vai" ficará em uma linha separada do "Olá Mundo".
