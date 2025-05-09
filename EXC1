@@ -1,0 +1,10 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Olá Mundo")
+	}
+}
+
+no código quando iniciado o programa transmite a mensagem "olá mundo" para o console do portugol.
