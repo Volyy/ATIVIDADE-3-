@@ -1,0 +1,13 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia nome
+
+		leia(nome)
+		escreva(nome)
+	}
+}
+
+Quando iniciado o programa ira possibilitar ao usúrio escrever um valor para a cadeia nome,após incerido, o programa escreve o valor que o usuario insiriu.
