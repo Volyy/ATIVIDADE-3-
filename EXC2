@@ -1,0 +1,11 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Olá Mundo")
+		escreva("como vai")
+	}
+}
+
+o código funciona semelhante ao anterior,mas agora ele ira adicionar a frase "como vai" para o console.
